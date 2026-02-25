@@ -1,6 +1,4 @@
-# Codebase Explanation & How to Run
-
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 python_task/
