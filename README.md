@@ -1,5 +1,3 @@
-# Library Management API
-
 A Django REST Framework API for managing a library system with user authentication, book management, and borrowing functionality.
 
 ## Features
@@ -285,7 +283,6 @@ The admin portal allows you to:
 - Only authenticated users can access library endpoints
 - Only admin users can create, update, or delete books
 - Users cannot borrow the same book twice without returning it first
-- Password validation follows Django's default validators
 
 ## Testing the API
 
@@ -295,6 +292,3 @@ You can test the API using:
 - Python requests library
 - Django REST Framework's browsable API (visit endpoints in browser when logged in)
 
-## License
-
-This project is for educational purposes.
